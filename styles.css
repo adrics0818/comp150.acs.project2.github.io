@@ -1,7 +1,7 @@
 /* Overall website design */
 body {
-    background-color: #FFF5F7;
-    color: #FADCE3 ;
+    background-color: #F6FAFB;
+    color: #C7DADD ;
     font-family: 'Trebuchet MS', sans-serif;
     margin: 0;
     padding: 30px;
@@ -10,7 +10,7 @@ body {
 
 /* Main heading */
 h1 {
-    background-color: #E8E6EF;
+    background-color: #DDECEF;
     color: white;
     text-align: center;
     padding: 35px;
@@ -21,7 +21,7 @@ h1 {
 
 /* Smaller headings */
 h2 {
-    color: #FADCE3;
+    color: #F2E9E4;
     border-bottom: 2px #F0C1CF;
     padding-bottom: 10px;
 }
